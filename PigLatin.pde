@@ -56,7 +56,4 @@ public int findFirstVowel(String word){
   return loc;
 }
 ﻿
-poop
-uhpoop
- 
- 
+
